@@ -1,12 +1,12 @@
 :root {
-     --text-color: #dbe4ef;
-     --card-front-color #144480;
-     --card-back-color #00F4BF;
-
+   --text-color:#DBE4EF;
+   --card-front-color: #144480;
+   --card-back-color: #00F4BF;
 }
-body   {
-  background-image:url(bg-desktop.jpg);
-   font-family: Bai JamJuree;
+
+body{
+     background-image: url(img/bg-desktop.jpg);
+
 }
 
 footer  {
